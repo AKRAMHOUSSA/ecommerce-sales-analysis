@@ -1,4 +1,4 @@
-# ecommerce-sales-analysis
+# Ecommerce-sales-analysis
 E-commerce sales analysis using SQL and Excel, with an interactive dashboard and business insights.
 
 ## Project Overview
@@ -35,7 +35,10 @@ Analysis of 5,000 e-commerce transactions using MySQL and Excel to evaluate sale
 ## Dashboard
 <img width="615" height="341" alt="Screenshot 2026-09-27 162308" src="https://github.com/user-attachments/assets/6134b451-56a7-404a-90f5-2d8cccd69344" />
 <img width="619" height="394" alt="Screenshot 2026-09-27 162326" src="https://github.com/user-attachments/assets/76500277-a7f7-4467-9fe9-35c962448e1f" />
-Interactive dashboard with slicers for Branch, City, Customer Type, and Gender — filtering all charts simultaneously.
+
+- <a href="https://github.com/AKRAMHOUSSA/ecommerce-sales-analysis/blob/main/Dashboard.ec.xlsx">Dashboard
+  
+Interactive dashboard with slicers for Region, Year, City and Payment Mode — filtering all charts simultaneously.
 
 ## Key Findings
 - Home Decor generated the highest revenue, while Furniture achieved the strongest overall profitability.
